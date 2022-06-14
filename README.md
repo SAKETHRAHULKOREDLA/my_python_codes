@@ -1,1 +1,1 @@
-# my_python_codes
+# simple_interest_calculator_by_saketh
